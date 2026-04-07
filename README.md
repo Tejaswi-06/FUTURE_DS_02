@@ -87,6 +87,4 @@ The analysis highlights that contract type, subscription plan, and service type 
 GitHub: [Tejaswi-06](https://github.com/Tejaswi-06)
 
 ---
-  
-## 👤 Author  
-Tejaswi
+
